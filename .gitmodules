@@ -1,0 +1,9 @@
+[submodule "gunshot-api-service"]
+	path = gunshot-api-service
+	url = https://github.com/Imm0bilize/gunshot-api-service
+[submodule "gunshot-telegram-notifier"]
+	path = gunshot-telegram-notifier
+	url = https://github.com/Imm0bilize/gunshot-telegram-notifier
+[submodule "gunshot-ml-service"]
+	path = gunshot-ml-service
+	url = https://github.com/Imm0bilize/gunshot-ml-service
