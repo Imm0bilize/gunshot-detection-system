@@ -7,3 +7,6 @@
 [submodule "gunshot-ml-service"]
 	path = gunshot-ml-service
 	url = https://github.com/Imm0bilize/gunshot-ml-service
+[submodule "gunshot-core-service"]
+	path = gunshot-core-service
+	url = https://github.com/Imm0bilize/gunshot-core-service
